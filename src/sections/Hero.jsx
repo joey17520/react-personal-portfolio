@@ -94,7 +94,7 @@ export default function Hero() {
             </div>
 
             {/* CTAs */}
-            <div>
+            <div className="space-x-2 space-y-2">
               <Button size="lg">
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
